@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[URL-da-imagem](https://github.com/user-attachments/assets/329f552b-d05e-408d-918b-4b5679490e62)" alt="Banner" style="width:100%;">
+  <img src="[URL-da-imagem](Images/github-header-image.png)" alt="Banner" style="width:100%;">
 </div>
 
 # 👨‍💻 Girildo Catanha
