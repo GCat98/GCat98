@@ -32,7 +32,6 @@ Engenheiro de Telecomunicações recém-formado pela Universidade de Luanda – 
 ## 🏆 Participações e Reconhecimentos
 - 🏅 Huawei ICT Competition – Angola - National Stage  
 - 🌏 Programa *Seeds for the Future* (Huawei, China)
-#
 ## 📫 Contato
 - **Email:** girildocatanha98@outlook.com 
 - **LinkedIn:** [linkedin.com/in/girildocatanha](https://linkedin.com/in/girildo-catanha)
