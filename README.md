@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="[URL-da-imagem](Images/github-header-image.png)" alt="Banner" style="width:100%;">
-</div>
+
+![TELECO~1](https://github.com/user-attachments/assets/b6aed499-5813-492e-b58a-3bb01d1878d2)
 
 # 👨‍💻 Girildo Catanha
 Engenheiro de Telecomunicações recém-formado pela Universidade de Luanda – INSTIC. Apaixonado por redes, sistemas inteligentes e tecnologias open source. Tenho experiência prática com ESP32, LoRa, AWS, e automação com Node-RED.
