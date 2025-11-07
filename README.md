@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/a68267c1-05b8-433a-94a3-96f3fb0c0bdd)
 
-# 💻 Girildo Catanha    | Técnico de redes | Suporte de TI | Professor
-Engenheiro de Telecomunicações recém-formado pela Universidade de Luanda – UniLuanda, no Instituto de Tecnologias de Infformação e Comunicação -  INSTIC. Apaixonado por Infraestrutura de Redes de Comunicação, Computação em Núvem (Cloud), Desenvolvimento Web, CyberSecurity, IoT,  Sistemas inteligentes e Tecnologias Open Source. Tenho experiência em desenvolvimento de Projectos Electrónicos, Microcontroladores (Esp32 e Arduin0), Implementação e Configuração de Infraestrutur de redes LANs e WANs, Redes Sem Fio (WPANs, WLANs e WWANs), AWS, Automação e Monitoramnto em Redes ( Node-Red, Zabbix).
+# 💻 Girildo Catanha    | Técnico de redes e infraestrutura | Suporte de TI | Professor
+Engenheiro de Telecomunicações recém-formado pela Universidade de Luanda – UniLuanda, no Instituto de Tecnologias de Infformação e Comunicação -  INSTIC. Apaixonado por Infraestrutura de Redes de Comunicação, Computação em Núvem (Cloud), Desenvolvimento Web, CyberSecurity, IoT,  Sistemas inteligentes e Tecnologias Open Source. Tenho experiência em desenvolvimento de Projectos Electrónicos, Microcontroladores (Esp32 e Arduin0), Implementação e Configuração de Infraestrutura de redes LANs e WANs, Redes Sem Fio (WPANs, WLANs e WWANs), AWS, Automação e Monitoramnto em Redes ( Node-Red, Zabbix).
 #
 ## 💡 Projetos em Destaque
 
